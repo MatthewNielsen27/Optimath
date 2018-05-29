@@ -1,6 +1,6 @@
 # Optimath
 
-**TODO: Add description**
+A general-purpose math package fit for the functional programming world
 
 ## Installation
 
